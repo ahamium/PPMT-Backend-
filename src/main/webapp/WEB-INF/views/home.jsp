@@ -1,6 +1,6 @@
-<link rel="stylesheet" type="text/css" href="/static/static/css/CSS.css"/>
+<link rel="stylesheet" type="text/css" href="/static/static/css/main.abdc95a3.chunk.css"/>
 
-<script src="/static/static/js/JS.js"></script>
+<script src="/static/static/js/main.ca5c271a.chunk.js"></script>
 
 <body>
 hello world
