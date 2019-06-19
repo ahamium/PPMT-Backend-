@@ -11,7 +11,7 @@
 	<groupId>io.agileintelligence</groupId>
 	<artifactId>ppmtool</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<!-- HEROKU and procfile --><packaging>jar</packaging>
+	<!-- HEROKU and procfile and put react-build-file into static --><packaging>jar</packaging>
 	<name>ppmtool</name>
 	<description>Personal project management tool</description>
 
