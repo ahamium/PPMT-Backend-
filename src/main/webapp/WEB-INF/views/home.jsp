@@ -1,3 +1,5 @@
-<link rel="stylesheet" type="text/css" href="/static/static/css/main.abdc95a3.chunk.css"/>
+<!-- <link rel="stylesheet" type="text/css" href="/static/static/css/main.abdc95a3.chunk.css"/>
+ -->
+<!-- <script src="/static/static/js/main.ca5c271a.chunk.js"></script> -->
 
-<script src="/static/static/js/main.ca5c271a.chunk.js"></script>
+<iframe src="/static/index.html" style="border:none;"></iframe>
