@@ -76,7 +76,8 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter{
 	    		"/**/*.jpg",
 	    		"/**/*.html",
 	    		"/**/*.css",
-	    		"/**/*.js"
+	    		"/**/*.js",
+	    		"/**/*.jsp"
 	    		).permitAll()
 	    .antMatchers(SecurityConstants.SIGN_UP_URLS).permitAll()
 	    .antMatchers(SecurityConstants.H2_URL).permitAll()
